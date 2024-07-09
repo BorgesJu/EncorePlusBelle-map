@@ -1,1 +1,1 @@
-# Base Workadventure map for Cinetwork
+# Base Workadventure map for Cinetwork - Encore Plus Belle
