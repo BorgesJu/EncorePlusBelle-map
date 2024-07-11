@@ -1307,6 +1307,23 @@
                  "width":414.000333333333,
                  "x":65.6665,
                  "y":867.166833333333
+                }, 
+                {
+                 "height":46,
+                 "id":34,
+                 "name":"popupZone",
+                 "properties":[
+                        {
+                         "name":"script",
+                         "type":"string",
+                         "value":"script.js"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":30.0000000000005,
+                 "x":2081.37878787879,
+                 "y":146.272727272727
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1684,8 +1701,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":68,
- "nextobjectid":34,
+ "nextlayerid":69,
+ "nextobjectid":37,
  "orientation":"orthogonal",
  "properties":[
         {
