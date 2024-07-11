@@ -1215,7 +1215,7 @@
                 {
                  "height":255,
                  "id":31,
-                 "name":"CRoomMeetingRoom",
+                 "name":"ARoomMeetingRoom",
                  "properties":[
                         {
                          "name":"focusable",
