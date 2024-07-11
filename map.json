@@ -1677,6 +1677,11 @@
                  "name":"openTab",
                  "type":"string",
                  "value":"https:\/\/linktr.ee\/"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Appuyer sur espace pour ouvrir Linktree"
                 }],
          "type":"tilelayer",
          "visible":false,
