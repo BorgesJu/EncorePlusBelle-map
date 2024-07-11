@@ -1928,17 +1928,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":8,
          "firstgid":5183,
-         "image":"..\/tilesets\/Marseille_Tileset.png",
-         "imageheight":128,
-         "imagewidth":256,
-         "margin":0,
-         "name":"Marseille_Tileset",
-         "spacing":0,
-         "tilecount":32,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"tilesets\/Marseille_Tileset.tsx"
         }],
  "tilewidth":32,
  "type":"map",
