@@ -1161,7 +1161,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"CMeetingRoom"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1193,7 +1193,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"BMeetingRoom"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1225,7 +1225,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"AMeetingRoom"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1257,7 +1257,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"BarMeetingRoom"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1289,7 +1289,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"CommissariatMeetingRoom"
                         }, 
                         {
                          "name":"jitsiTrigger",
